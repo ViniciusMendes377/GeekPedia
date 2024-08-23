@@ -1,0 +1,95 @@
+
+*{
+
+box-sizing: border-box;
+
+}
+
+body{
+
+margin: 0;
+font-family: 'Quicksand', sans-serif;
+font-size:20px;
+letter-spacing: 2px;
+line-height:1.8;
+background-color:  #EBEBEB;
+}
+
+
+.navbar{
+height: 115px;
+background-color:#84A98C ;
+}
+
+ .navbar-menu{
+list-style-type: none;
+margin: 0;
+padding: 0;
+display: flex;
+justify-content: center;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+
+div{
+
+padding-bottom: 20px;
+
+}
+
+#Modificação{
+
+text-align: center;
+padding-bottom: 20px;
+padding-top: 20px;
+
+}
+
+h2{
+font-size: 35px;
+letter-spacing: 3px;
+font-family:'Roboto', sans-serif;
+padding-bottom: 3px;
+ }
+
+ .botoes-links{
+
+    text-decoration: none;
+    color: rgb(45, 129, 94);
+    font-size: 20px;
+    }
+    
+    .botoes-links:hover{
+    
+       font-size: 23px; 
+    
+    }
+
+.Rodapé{
+
+height: 180px;
+background-color: #84A98C;
+padding-top: 45px;
+
+}
+
+
+.Final{
+font-weight: 700;
+text-align: center;
+padding-top: 20px;
+padding-bottom: 20px;
+}
+
+.Colaboradores{
+
+text-align: center;
+font-size: 30PX;
+background-color: #95c29f;
+border-radius: 8PX;
+font-family: sans-serif;
+padding-top: 5px;
+padding-bottom: 5px;
+
+
+}
+
